@@ -1,5 +1,5 @@
 # Titanic Dataset
-3 files
+3 notebook files: DataAnalysis.ipynb, FeaturesSelection.ipynb and GridSearch_and_training.ipynb
 ### Data Analysis
 - Some study over features.
 
