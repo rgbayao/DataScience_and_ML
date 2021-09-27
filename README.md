@@ -3,3 +3,8 @@ Store personal projects with my analysis and solutions for common data science a
 
 ## Titanic_ML
 My personal solution for the famous Titanic DataSet.
+https://www.kaggle.com/c/titanic
+
+## House_sales_kc
+Personal solutions for house pricing from King Country, USA
+https://www.kaggle.com/harlfoxem/housesalesprediction
